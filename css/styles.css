@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+}
+.Topnav{
+    color: white;
+    background-color: black; 
+    display: flex;
+    justify-content: space-between;  
+}
+.navbar {
+    display: inline-flex;
+    justify-content: space-evenly;
+}
+li {
+    justify-content: space-evenly;   
+}
+a {
+    text-decoration: none;
+    color: grey;
+    font-size: larger;
+    display: flex;
+}
+a:hover{
+    color: whitesmoke;
+}
+li {
+    display: flex;
+}
+.column{
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    height: 230px;
+    width: 280px;
+}
+img :hover{
+   
+}
+footer {
+    padding-top: 20%;
+    padding-bottom: 2%;
+    background-color: black;
+    color: whitesmoke;
+    height: 350px;
+}
